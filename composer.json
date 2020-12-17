@@ -1,0 +1,16 @@
+{
+    "name": "harshekjain/test",
+    "type": "library",
+    "description": "Testing Package",
+    "keywords": ["test","composer"],
+    "homepage": "https://harshekjain.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harshek Jain",
+            "email": "harshek.jain@gmail.com",
+            "homepage": "http://harshekjain.com",
+            "role": "Developer"
+        }
+    ],
+}
